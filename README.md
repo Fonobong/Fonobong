@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Fonobong/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Fonobong/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Fonobong/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Fonobong/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Fonobong/azure-network-protocols)

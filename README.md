@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Fonobong/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Fonobong/post-install-config)
+  - [Help Desk Ticketing System Installation (osTicket)](https://github.com/Fonobong/osticket-prereqs)
+  - [Help Desk Ticketing System Configuration (osTicket)](https://github.com/Fonobong/post-install-config)
 
 <h2>🤳Connect with me on LinkedIn:</h2>
 
